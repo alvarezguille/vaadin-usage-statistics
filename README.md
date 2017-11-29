@@ -22,4 +22,6 @@ bower install --save vaadin/vaadin-usage-statistics#optout
 ```
 You can verify this by checking that `vaadin-usage-statistics.html` is empty.
 
+This tool is not used for Vaadin Framework 8 and older generations.
+
 If you have any questions on the use of the statistics, please contact statistics@vaadin.com.
